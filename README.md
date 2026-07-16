@@ -1,116 +1,177 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0F3460,100:00B4D8&height=210&section=header&text=Mayank%20Singh&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%26%20Automation%20Builder%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Curious%20Problem-Solver&descSize=17&descAlignY=57&animation=fadeIn" alt="Mayank Singh — AI and Automation Builder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,42:123B5D,100:16B8A6&height=220&section=header&text=Mayank%20Singh&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineer%20in%20Progress%20%E2%80%A2%20Building%20Practical%20Systems%20End%20to%20End&descSize=17&descAlignY=58&animation=fadeIn" alt="Mayank Singh — AI Engineer in Progress" />
 
 <a href="https://github.com/mayanksingh-GIT-CODER">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=720&lines=Turning+real-world+signals+into+interactive+software;Learning+deeply.+Building+practically.+Shipping+consistently.;Exploring+AI%2C+automation%2C+and+human-computer+interaction" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2700&pause=850&color=62E6D0&center=true&vCenter=true&width=820&lines=Computer+vision+%E2%86%92+real-time+interactive+experiences;RAG%2C+agents%2C+automation+%E2%86%92+useful+AI+products;FastAPI%2C+Streamlit%2C+React+%E2%86%92+software+people+can+actually+use;Curious+enough+to+explore.+Disciplined+enough+to+ship." alt="Mayank's engineering focus" />
 </a>
 
 <br />
 
-<a href="mailto:mayanksingh.mie@gmail.com"><img src="https://img.shields.io/badge/Email-Mayank-0077B6?style=flat-square&logo=gmail&logoColor=white" alt="Email Mayank" /></a>
-<a href="https://github.com/mayanksingh-GIT-CODER?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Projects-023E8A?style=flat-square&logo=github&logoColor=white" alt="Explore Mayank's projects" /></a>
-<img src="https://img.shields.io/badge/Open_to-Internships-16A085?style=flat-square" alt="Open to internships" />
-<img src="https://komarev.com/ghpvc/?username=mayanksingh-GIT-CODER&label=Profile%20views&color=0077b6&style=flat-square" alt="Profile views" />
+<a href="mailto:mayanksingh.mie@gmail.com"><img src="https://img.shields.io/badge/Email-Mayank-0B7285?style=flat-square&logo=gmail&logoColor=white" alt="Email Mayank" /></a>
+<a href="https://github.com/mayanksingh-GIT-CODER?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-23_Professional_Projects-115E59?style=flat-square&logo=github&logoColor=white" alt="Explore 23 portfolio projects" /></a>
+<img src="https://img.shields.io/badge/Open_to-Internships_%26_Collaboration-2563EB?style=flat-square" alt="Open to internships and collaboration" />
+<img src="https://komarev.com/ghpvc/?username=mayanksingh-GIT-CODER&label=Profile%20views&color=0f766e&style=flat-square" alt="Profile views" />
 
 </div>
 
 ## Hello — I'm Mayank
 
-I'm a **BCA (Hons.) Artificial Intelligence & Data Science** student at Graphics Era, working toward a career in AI engineering. I’m most energized by projects where software meets the physical world: cameras, gestures, sound, real-time events, and useful automation.
+I’m a **BCA (Hons.) Artificial Intelligence & Data Science** student at Graphics Era, building toward a career in AI engineering.
 
-I learn by building. That means starting with a real problem, getting the smallest version working, debugging the uncomfortable parts, and improving it until it is dependable—not merely impressive in a demo.
+My favorite work sits at the boundary between intelligence and action: a camera gesture moving a Unity character, a retrieval system grounding an answer in private documents, or an agent turning an unstructured request into an auditable workflow.
 
-> **Current direction:** practical AI systems, automation tools, and interactive experiences that turn real-world input into meaningful software behavior.
+I learn by shipping complete systems—not only notebooks. My repositories include tests, CI, architecture documentation, security and privacy notes, Docker support where it helps, and interfaces that make the underlying intelligence usable.
 
-## What I'm building now
+> **Current direction:** reliable AI products, agentic automation, computer vision, and full-stack systems with transparent behavior and responsible boundaries.
 
-### Interactive cinematic control system
+## Engineering focus
 
-A real-time prototype where a Python vision-and-audio pipeline interprets hand gestures and claps, sends events over WebSocket, and controls cinematic sequences inside Unity through a state-driven architecture.
+| Perception & interaction | Knowledge & reasoning | Automation & products | Delivery & quality |
+|---|---|---|---|
+| OpenCV, MediaPipe, gestures, real-time events, Unity | RAG, citations, NLP, tool-using agents, explainable scoring | FastAPI, Streamlit, React, workflows, SaaS patterns | Tests, CI, Docker, typed contracts, security, documentation |
 
-`Python` · `OpenCV` · `MediaPipe` · `WebSocket` · `Unity` · `State Machines`
+## Flagship project
 
-This project captures how I like to work: combining disciplines, learning unfamiliar systems, and staying with difficult integration problems until the whole experience feels seamless.
+### [Gesture Unity Bridge](https://github.com/mayanksingh-GIT-CODER/gesture-unity-bridge)
 
-## Toolkit
+A webcam-only computer-vision bridge that turns hand movement, pinches, and two-palm gestures into a complete Unity cinematic experience. Python handles MediaPipe perception and debouncing; a WebSocket protocol carries typed events; Unity controls movement, rain, lighting, candles, curtains, audio, and camera choreography.
+
+`Python` · `OpenCV` · `MediaPipe` · `WebSocket` · `Unity` · `Human-Computer Interaction`
+
+**Engineering proof:** 34 Python tests · headless Unity compile verified · privacy-first local processing · procedural scene · CI · Docker bridge · protocol and architecture docs
+
+## Selected systems
+
+| Project | What it demonstrates | Core stack |
+|---|---|---|
+| [AI Personal Assistant](https://github.com/mayanksingh-GIT-CODER/ai-personal-assistant) | Voice, vision, PDF grounding, explicit memory, safe tools, approval-gated Calendar/Gmail actions | Python, FastAPI, Streamlit, multimodal AI |
+| [RAG Chatbot](https://github.com/mayanksingh-GIT-CODER/rag-chatbot-langchain) | Citation-first answers over private PDF collections with local retrieval and optional Gemini | LangChain, SQLite, embeddings, FastAPI |
+| [AI Business Automation Platform](https://github.com/mayanksingh-GIT-CODER/ai-business-automation-platform) | Governed HR, finance, marketing, email, and reporting workflows with approvals and audit logs | Python, workflow engine, Streamlit |
+| [SignalDesk AI](https://github.com/mayanksingh-GIT-CODER/ai-app-deployed-fastapi-react) | Explainable support-ticket classification, PII redaction, typed batch API, responsive frontend | FastAPI, React, Vite, Docker |
+| [VisionPulse](https://github.com/mayanksingh-GIT-CODER/realtime-object-detector) | Offline face/person detection, privacy blur, webcam/video CLI, deployable browser demo | OpenCV, Streamlit, computer vision |
+| [SpendScope ML](https://github.com/mayanksingh-GIT-CODER/expense-analyzer-ml) | Forecasting, anomaly detection, merchant classification, model diagnostics, interactive analytics | scikit-learn, pandas, Plotly |
+
+## Portfolio map — 23 professional repositories
+
+<details open>
+<summary><b>Flagship and high-impact systems</b></summary>
+<br />
+
+[AI Personal Assistant](https://github.com/mayanksingh-GIT-CODER/ai-personal-assistant) ·
+[Business Automation Platform](https://github.com/mayanksingh-GIT-CODER/ai-business-automation-platform) ·
+[Healthcare Assistant](https://github.com/mayanksingh-GIT-CODER/ai-healthcare-assistant) ·
+[Trading Dashboard](https://github.com/mayanksingh-GIT-CODER/ai-trading-dashboard) ·
+[Gesture Unity Bridge](https://github.com/mayanksingh-GIT-CODER/gesture-unity-bridge)
+
+</details>
+
+<details>
+<summary><b>RAG, agents, and applied AI</b></summary>
+<br />
+
+[RAG Chatbot](https://github.com/mayanksingh-GIT-CODER/rag-chatbot-langchain) ·
+[Automation Agent](https://github.com/mayanksingh-GIT-CODER/ai-automation-agent) ·
+[Multi-Agent Assistant](https://github.com/mayanksingh-GIT-CODER/multi-agent-ai-assistant) ·
+[AI Code Reviewer](https://github.com/mayanksingh-GIT-CODER/ai-code-reviewer) ·
+[AI Career Advisor](https://github.com/mayanksingh-GIT-CODER/ai-career-advisor) ·
+[AI Interview Coach](https://github.com/mayanksingh-GIT-CODER/ai-interview-coach) ·
+[AI Study Assistant](https://github.com/mayanksingh-GIT-CODER/ai-study-assistant)
+
+</details>
+
+<details>
+<summary><b>Full-stack AI and SaaS products</b></summary>
+<br />
+
+[AI Notes SaaS](https://github.com/mayanksingh-GIT-CODER/ai-notes-saas) ·
+[AI Document Manager](https://github.com/mayanksingh-GIT-CODER/ai-document-manager) ·
+[AI CRM](https://github.com/mayanksingh-GIT-CODER/ai-crm) ·
+[AI Email Generator](https://github.com/mayanksingh-GIT-CODER/ai-email-generator) ·
+[AI Project Management System](https://github.com/mayanksingh-GIT-CODER/ai-project-management-system) ·
+[FastAPI + React AI App](https://github.com/mayanksingh-GIT-CODER/ai-app-deployed-fastapi-react)
+
+</details>
+
+<details>
+<summary><b>Data, ML, vision, and engineering foundations</b></summary>
+<br />
+
+[AI Resume Analyzer](https://github.com/mayanksingh-GIT-CODER/ai-resume-analyzer) ·
+[CSV AI Analyzer](https://github.com/mayanksingh-GIT-CODER/csv-ai-analyzer) ·
+[Finance Tracker Pro](https://github.com/mayanksingh-GIT-CODER/finance-tracker-pro) ·
+[Expense Analyzer ML](https://github.com/mayanksingh-GIT-CODER/expense-analyzer-ml) ·
+[Real-Time Object Detector](https://github.com/mayanksingh-GIT-CODER/realtime-object-detector)
+
+</details>
+
+## Technical toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,mysql,postgres,opencv,unity,git,github,vscode&theme=dark&perline=12" alt="Python, C++, HTML, CSS, JavaScript, MySQL, PostgreSQL, OpenCV, Unity, Git, GitHub, and VS Code" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,opencv,unity,docker,postgres,mysql,git,github,vscode&theme=dark&perline=14" alt="Python, FastAPI, React, JavaScript, HTML, CSS, OpenCV, Unity, Docker, PostgreSQL, MySQL, Git, GitHub, and VS Code" />
 
 </div>
 
 | Area | Working with |
 |---|---|
-| **Programming** | Python, C++, JavaScript, SQL, HTML, CSS |
-| **AI & interaction** | Computer vision, MediaPipe, OpenCV, gesture and audio detection |
-| **Systems & automation** | WebSocket, state machines, Unity, n8n, REST APIs |
-| **Learning next** | AI agents, full-stack product development, cloud platforms |
+| **AI engineering** | RAG, agents, NLP, computer vision, explainable baselines, evaluation-minded design |
+| **Backend & data** | Python, FastAPI, REST, WebSocket, SQLite, PostgreSQL, pandas, scikit-learn |
+| **Product interfaces** | Streamlit, React, Vite, Plotly, HTML, CSS |
+| **Systems & delivery** | Unity, Docker, GitHub Actions, pytest, Ruff, typed contracts, architecture docs |
 
-## Selected projects
+## My repository standard
 
-<div align="center">
+Every major portfolio project is built to answer more than “does the demo run?”
 
-<a href="https://github.com/mayanksingh-GIT-CODER/file-organizer">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayanksingh-GIT-CODER&repo=file-organizer&theme=tokyonight&hide_border=true&description_lines_count=2" alt="File Organizer repository" />
-</a>
-<a href="https://github.com/mayanksingh-GIT-CODER/weather-app">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayanksingh-GIT-CODER&repo=weather-app&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Weather App repository" />
-</a>
+```text
+clear problem
+    → modular implementation
+    → automated tests + lint
+    → architecture and API documentation
+    → privacy, safety, and limitation notes
+    → CI + reproducible setup
+    → interface a reviewer can actually use
+```
 
-<a href="https://github.com/mayanksingh-GIT-CODER/expense-tracker">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayanksingh-GIT-CODER&repo=expense-tracker&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Expense Tracker repository" />
-</a>
-<a href="https://github.com/mayanksingh-GIT-CODER/mayank-portfolio">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mayanksingh-GIT-CODER&repo=mayank-portfolio&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Mayank Portfolio repository" />
-</a>
-
-</div>
-
-### What these projects say about me
-
-- **I automate repetitive work:** `file-organizer` turns a messy everyday task into a repeatable workflow.
-- **I learn through real integrations:** `weather-app` connects application logic to live external data.
-- **I care about useful fundamentals:** `expense-tracker` focuses on clear data handling and practical CLI design.
-- **I present what I build:** `mayank-portfolio` is where I’m learning to communicate projects, not just code them.
+That standard reflects how I want to grow: ambitious about what software can do, honest about its limits, and persistent about the unglamorous work that makes it dependable.
 
 ## GitHub snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mayanksingh-GIT-CODER&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mayank's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksingh-GIT-CODER&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Mayank's most used public repository languages" />
+<img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayanksingh-GIT-CODER&theme=transparent" alt="Mayank's GitHub statistics" />
+<img height="168" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayanksingh-GIT-CODER&theme=transparent" alt="Mayank's most used public repository languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=mayanksingh-GIT-CODER&theme=tokyonight&hide_border=true" alt="Mayank's GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=mayanksingh-GIT-CODER&theme=transparent&hide_border=true&ring=62E6D0&fire=7C8CFF&currStreakLabel=62E6D0&sideLabels=A9B7D0&dates=77849E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Mayank's GitHub contribution streak" />
 
 </div>
 
 ## How I work
 
 ```text
-Stay curious  →  build a small version  →  test in the real world
-      ↑                                            ↓
-learn from the failure  ←  debug the system  ←  observe honestly
+ask why → build the smallest real version → test the risky assumptions
+   ↑                                              ↓
+share what I learned ← document the trade-offs ← improve what failed
 ```
 
-I value visible progress over perfect plans, clear fundamentals over buzzwords, and persistence when systems refuse to cooperate. My goal is simple: keep becoming the kind of engineer who can take an ambitious idea and make it work reliably.
+I value visible progress over perfect plans, strong fundamentals over fashionable vocabulary, and the patience to stay with integration problems until the complete system works.
 
 ## Let's connect
 
-I’m open to **internships, collaborative projects, and conversations about AI, automation, or interactive systems**.
+I’m open to **AI engineering internships, collaborative projects, research-minded conversations, and opportunities to build useful systems with thoughtful people**.
 
 <div align="center">
 
-<a href="mailto:mayanksingh.mie@gmail.com"><img src="https://img.shields.io/badge/Email-mayanksingh.mie%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mayank Singh" /></a>
+<a href="mailto:mayanksingh.mie@gmail.com"><img src="https://img.shields.io/badge/Email-mayanksingh.mie%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mayank Singh" /></a>
 <a href="https://github.com/mayanksingh-GIT-CODER"><img src="https://img.shields.io/badge/GitHub-mayanksingh--GIT--CODER-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mayank's GitHub profile" /></a>
 
 <br /><br />
 
 <sub><i>Curious enough to explore. Disciplined enough to ship.</i></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,55:0F3460,100:07111F&height=105&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16B8A6,58:123B5D,100:07111F&height=110&section=footer" alt="Footer wave" />
 
 </div>
