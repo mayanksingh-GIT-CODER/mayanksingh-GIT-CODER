@@ -11,7 +11,7 @@
 <a href="mailto:mayanksingh.mie@gmail.com"><img src="https://img.shields.io/badge/Email-Mayank-0B7285?style=flat-square&logo=gmail&logoColor=white" alt="Email Mayank" /></a>
 <a href="https://mayanksingh-git-coder.github.io/mayank-portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Explore-115E59?style=flat-square&logo=githubpages&logoColor=white" alt="Explore Mayank's live portfolio" /></a>
 <a href="https://www.linkedin.com/in/mayank-singh-py/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Mayank on LinkedIn" /></a>
-<a href="https://github.com/mayanksingh-GIT-CODER?tab=repositories"><img src="https://img.shields.io/badge/Projects-23%2B_Professional_Systems-115E59?style=flat-square&logo=github&logoColor=white" alt="Explore more than 23 portfolio projects" /></a>
+<a href="https://github.com/mayanksingh-GIT-CODER?tab=repositories"><img src="https://img.shields.io/badge/Projects-23%2B_Public_Builds-115E59?style=flat-square&logo=github&logoColor=white" alt="Explore more than 23 public portfolio projects" /></a>
 <img src="https://img.shields.io/badge/Open_to-Internships_%26_Collaboration-2563EB?style=flat-square" alt="Open to internships and collaboration" />
 <img src="https://komarev.com/ghpvc/?username=mayanksingh-GIT-CODER&label=Profile%20views&color=0f766e&style=flat-square" alt="Profile views" />
 
@@ -23,13 +23,13 @@ I’m a **BCA (Hons.) Artificial Intelligence & Data Science** student at **Grap
 
 My favorite work sits at the boundary between intelligence and action: a camera gesture moving a Unity character, a retrieval system grounding an answer in private documents, or an agent turning an unstructured request into an auditable workflow.
 
-I learn by shipping complete systems—not only notebooks. My repositories include tests, CI, architecture documentation, security and privacy notes, Docker support where it helps, and interfaces that make the underlying intelligence usable.
+I learn by shipping complete systems—not only notebooks. My strongest repositories include tests, CI, architecture documentation, security and privacy notes, Docker support where it helps, and interfaces that make the underlying intelligence usable.
 
 > **Current direction:** reliable AI products, agentic automation, computer vision, and full-stack systems with transparent behavior and responsible boundaries.
 
 ### At a glance
 
-| 23+ professional systems | 19 Coursera certificates | 4 engineering domains | 1 flagship HCI system |
+| 23+ public projects | 19 Coursera certificates | 4 engineering domains | 1 flagship HCI system |
 |:---:|:---:|:---:|:---:|
 | AI products built end to end | Google, IBM & Politecnico di Milano | AI, vision, automation & data | Gesture-driven Unity experience |
 
@@ -49,6 +49,8 @@ A webcam-only computer-vision bridge that turns hand movement, pinches, and two-
 
 **Engineering proof:** 34 Python tests · headless Unity compile verified · privacy-first local processing · procedural scene · CI · Docker bridge · protocol and architecture docs
 
+**What I built:** the Python gesture pipeline, stability and debouncing logic, typed WebSocket boundary, and Unity-side event integration that turns perception into a complete interactive scene.
+
 ## Selected systems
 
 | Project | What it demonstrates | Core stack |
@@ -64,10 +66,12 @@ A webcam-only computer-vision bridge that turns hand movement, pinches, and two-
 
 The live portfolio adds filterable project categories, an engineering journey, verified learning highlights, and direct paths into the repositories above.
 
-## Portfolio map — 23+ professional systems
+## Project portfolio — depth first, breadth second
+
+The six projects above are the work I recommend reviewing first. The broader portfolio below includes supporting builds and learning experiments that document how my engineering skills have developed.
 
 <details open>
-<summary><b>Flagship and high-impact systems</b></summary>
+<summary><b>Flagship and selected systems</b></summary>
 <br />
 
 [AI Personal Assistant](https://github.com/mayanksingh-GIT-CODER/ai-personal-assistant) ·
@@ -79,7 +83,7 @@ The live portfolio adds filterable project categories, an engineering journey, v
 </details>
 
 <details>
-<summary><b>RAG, agents, and applied AI</b></summary>
+<summary><b>Supporting RAG, agent, and applied-AI builds</b></summary>
 <br />
 
 [RAG Chatbot](https://github.com/mayanksingh-GIT-CODER/rag-chatbot-langchain) ·
@@ -93,7 +97,7 @@ The live portfolio adds filterable project categories, an engineering journey, v
 </details>
 
 <details>
-<summary><b>Full-stack AI and SaaS products</b></summary>
+<summary><b>Supporting full-stack and SaaS builds</b></summary>
 <br />
 
 [AI Notes SaaS](https://github.com/mayanksingh-GIT-CODER/ai-notes-saas) ·
@@ -153,7 +157,7 @@ My project work is supported by **19 verified Coursera course certificates and o
 
 ## My repository standard
 
-Every major portfolio project is built to answer more than “does the demo run?”
+My strongest portfolio projects are built to answer more than “does the demo run?”
 
 ```text
 clear problem
