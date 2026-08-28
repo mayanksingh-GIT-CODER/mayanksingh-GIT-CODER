@@ -1,1 +1,48 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,42:123B5D,100:16B8A6&height=220&section=header&text=Mayank%20Singh&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineering%20Student%20%E2%80%A2%20RAG%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Agentic%20Automation&descSize=16&descAlignY=58&animation=fadeIn" alt="Mayank Singh — AI Engineering Student" /><a href="https://github.com/mayanksingh-GIT-CODER">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2700&pause=850&color=62E6D0&center=true&vCenter=true&width=820&lines=Computer+vision+%E2%86%92+real-time+interactive+experiences;RAG%2C+agents%2C+automation+%E2%86%92+useful+AI+products;FastAPI%2C+Streamlit%2C+React+%E2%86%92+software+people+can+actually+use;Curious+enough+to+explore.+Disciplined+enough+to+ship." alt="Mayank's engineering focus" /></a><br /><a href="mailto:mayanksingh.mie@gmail.com"><img src="https://img.shields.io/badge/Email-Mayank-0B7285?style=flat-square&logo=gmail&logoColor=white" alt="Email Mayank" /></a><a href="https://mayanksingh-git-coder.github.io/mayank-portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Explore-115E59?style=flat-square&logo=githubpages&logoColor=white" alt="Explore Mayank's live portfolio" /></a><a href="https://www.linkedin.com/in/mayank-singh-py/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Mayank on LinkedIn" /></a><a href="https://github.com/mayanksingh-GIT-CODER?tab=repositories"><img src="https://img.shields.io/badge/Projects-23%2B_Public_Builds-115E59?style=flat-square&logo=github&logoColor=white" alt="Explore more than 23 public portfolio projects" /></a><img src="https://img.shields.io/badge/Open_to-Internships_%26_Collaboration-2563EB?style=flat-square" alt="Open to internships and collaboration" /><img src="https://komarev.com/ghpvc/?username=mayanksingh-GIT-CODER&label=Profile%20views&color=0f766e&style=flat-square" alt="Profile views" /></div>## Hello — I'm MayankI’m an **AI Engineering Student** pursuing **BCA (Hons.) — Artificial Intelligence & Data Science** at **Graphic Era Deemed to be University**. I build practical RAG, computer-vision, agentic-automation, and backend systems with production-minded engineering.My favorite work sits at the boundary between intelligence and action: a camera gesture moving a Unity character, a retrieval system grounding an answer in private documents, or an agent turning an unstructured request into an auditable workflow.I learn by shipping complete systems—not only notebooks. My strongest repositories include tests, CI, architecture documentation, security and privacy notes, Docker support where it helps, and interfaces that make the underlying intelligence usable.> **Current direction:** reliable AI products, agentic automation, computer vision, and full-stack systems with transparent behavior and responsible boundaries.### At a glance| 23+ public projects | 19 Coursera certificates | 4 engineering domains | 1 flagship HCI system ||:---:|:---:|:---:|:---:|| AI products built end to end | Google, IBM & Politecnico di Milano | AI, vision, automation & data | Gesture-driven Unity experience |## Engineering focus| Perception & interaction | Knowledge & reasoning | Automation & products | Delivery & quality |
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:123B5D,100:16B8A6&height=220&section=header&text=Mayank%20Singh&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Engineering%20Student%20%E2%80%A2%20RAG%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Agentic%20Automation&descSize=16&descAlignY=58&animation=fadeIn" alt="Mayank Singh — AI Engineering Student" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-115E59?style=flat-square&logo=githubpages&logoColor=white)](https://mayanksingh-git-coder.github.io/mayank-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-singh-py/)
+[![Email](https://img.shields.io/badge/Email-Mayank-0B7285?style=flat-square&logo=gmail&logoColor=white)](mailto:mayanksingh.mie@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=mayanksingh-GIT-CODER&label=Profile%20views&color=0f766e&style=flat-square)](https://github.com/mayanksingh-GIT-CODER)
+
+</div>
+
+## Hi, I’m Mayank 👋
+
+I’m a **BCA (Hons.) student in Artificial Intelligence & Data Science** at Graphic Era Deemed to be University. I build practical AI systems that turn models into usable products—across retrieval-augmented generation, computer vision, agentic automation, data, and full-stack applications.
+
+I care about the engineering around AI as much as the model itself: clear interfaces, traceable behavior, testing, documentation, and responsible handling of data.
+
+## What I’m building
+
+- **Computer vision & interactive AI** — real-time perception, gesture-driven experiences, and vision-powered tools
+- **RAG & knowledge systems** — grounded answers over documents with transparent retrieval workflows
+- **Agentic automation** — systems that convert unstructured requests into auditable, useful actions
+- **AI product engineering** — APIs, dashboards, and polished interfaces that people can actually use
+
+## Featured project
+
+### [AI Company Project Portfolio](https://github.com/mayanksingh-GIT-CODER/ai-company-project-portfolio)
+
+A collection of six runnable AI demos covering healthcare triage, customer-review intelligence, satellite-image enhancement, dynamic pricing, social analytics, and demand planning.
+
+**Highlights:** Python • local runnable apps • explainable demo logic • project-specific documentation
+
+## Technical toolkit
+
+```
+Languages & data      Python · SQL · Pandas · NumPy
+AI & machine learning Scikit-learn · NLP · Computer Vision · Forecasting
+Product & backend     FastAPI · Streamlit · React · REST APIs
+Engineering           Git · Docker · Testing · Documentation · CI/CD
+```
+
+## Let’s connect
+
+I’m open to internships, collaborations, and meaningful AI engineering opportunities.
+
+- 📫 [mayanksingh.mie@gmail.com](mailto:mayanksingh.mie@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayank-singh-py/)
+- 🌐 [Portfolio](https://mayanksingh-git-coder.github.io/mayank-portfolio/)
